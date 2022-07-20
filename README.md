@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Android , MEAN**
+- 💬 Ask me about **HTML/CSS, Java, javaScript , MEAN**
 
 - 📫 How to reach me **dharmendrakumargupta829@gmail.com**
 
