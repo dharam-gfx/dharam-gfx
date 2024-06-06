@@ -51,7 +51,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dharam-gfx/dharam-gfx/output/github-contribution-grid-snake.svg" />
+  ![Snake animation](https://github.com/dharam-gfx/dharam-gfx/blob/output/github-contribution-grid-snake.svg)
   
   <br/>
 </div>
