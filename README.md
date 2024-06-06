@@ -48,6 +48,16 @@
 ![adobephotoshop](https://img.shields.io/badge/premiere%20pro-f7f7f7?style=flastic&logo=adobephotoshop&logoColor=31A8FF)
 ---
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dharam-gfx/dharam-gfx/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</div>
+
+<hr/>
+
 ### My Github Stats:
 
 <p>
