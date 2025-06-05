@@ -56,7 +56,7 @@
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dharam-gfx&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dharam-gfx&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Dharam-gfx GitHub status" />
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharam-gfx&theme=algolia" alt="dharam-gfx" />
