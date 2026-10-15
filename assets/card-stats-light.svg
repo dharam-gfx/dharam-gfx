@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 168" role="img" aria-label="Dharam GitHub statistics">
+  <rect x="0.5" y="0.5" width="519" height="167" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="24" y="31" fill="#c3263e" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1">DHARAM-GFX / GITHUB</text>
+  <text x="496" y="31" text-anchor="end" fill="#59636e" font-family="Segoe UI,Arial,sans-serif" font-size="11">PUBLIC PROFILE</text>
+  <path d="M24 47H496" stroke="#d0d7de"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="28" y="96" fill="#0d1117" font-size="30" font-weight="700">97</text>
+    <text x="28" y="119" fill="#59636e" font-size="10" letter-spacing="1">STARS</text>
+    <text x="188" y="96" fill="#0d1117" font-size="30" font-weight="700">26</text>
+    <text x="188" y="119" fill="#59636e" font-size="10" letter-spacing="1">PUBLIC REPOS</text>
+    <text x="348" y="96" fill="#0d1117" font-size="30" font-weight="700">18</text>
+    <text x="348" y="119" fill="#59636e" font-size="10" letter-spacing="1">FOLLOWERS</text>
+  </g>
+  <g fill="#c3263e"><rect x="28" y="137" width="34" height="3" rx="1.5"/><rect x="188" y="137" width="34" height="3" rx="1.5"/><rect x="348" y="137" width="34" height="3" rx="1.5"/></g>
+</svg>

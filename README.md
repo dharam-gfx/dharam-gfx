@@ -1,78 +1,99 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+DHARAM....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=dharam-gfx&color=brightgreen)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" width="100%" alt="Dharmendra Kumar, full-stack developer" />
+</picture>
 
-- 🔭 Focusing on FullStack (Frontend + Backend ).😎
-- 🌱 Trying to become an expert in Fullstack development ❤
-- 💻 I love exploring new tech stacks and building cool stuff.
-- 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Learn new technologies and tools.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+<br />
 
----
+<a href="https://facebook.com/dharam01.official"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.linkedin.com/in/dharmendra-kumar-a588a4119/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/dharam_gfx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://twitter.com/dharam_gfx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="mailto:dharamgfx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-### Connect With Me:
+<br />
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dharam01.official)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmendra-kumar-a588a4119/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dharam_gfx)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dharam_gfx)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharamgfx@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=dharam-gfx&style=flat&color=c3263e&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
 
 ---
 
-### Languages and Tools:
+## About Me
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![vuejs](https://img.shields.io/badge/Vue.js-35495E?style=flastic&logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-f7f7f7?style=flastic&logo=Next.js&logoColor=000000)
-![Redux](https://img.shields.io/badge/Redux-black?style=flastic&logo=Redux&logoColor=764ABC)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![AntDesign](https://img.shields.io/badge/AntDesign-f7f7f7?style=flastic&logo=AntDesign&logoColor=0170FE)
-![shadcn](https://img.shields.io/badge/shadcn/ui-000000?style=flastic&logo=shadcn/ui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-![Figma](https://img.shields.io/badge/Figma-f7f7f7?style=flastic&logo=Figma&logoColor=F24E1E)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E05924?style=flat-square&logo=ubuntu&logoColor=black)
-![NestJS](https://img.shields.io/badge/Nestjs-000000?style=flat-square&logo=nestjs&logoColor=D9224D)
-![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
-![adobephotoshop](https://img.shields.io/badge/photoShop-f7f7f7?style=flastic&logo=adobephotoshop&logoColor=31A8FF)
-![adobephotoshop](https://img.shields.io/badge/premiere%20pro-f7f7f7?style=flastic&logo=adobephotoshop&logoColor=31A8FF)
+I'm Dharmendra, a full-stack developer from Bihar, India. I enjoy working across frontend and backend, exploring new tools, and building useful things for the web.
+
+- Focused on frontend and backend development
+- Currently exploring new technologies and improving my craft
+- I like turning ideas into practical, polished projects
 
 ---
 
+## My Perfect Stack
 
-### My Github Stats:
+<div align="center">
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dharam-gfx&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Dharam-gfx GitHub status" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharam-gfx&theme=algolia" alt="dharam-gfx" />
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,redux,nodejs,nestjs,html,css,bootstrap,tailwind,mongodb,figma,netlify,ubuntu,vscode,postman,ps,pr&perline=7" alt="TypeScript, JavaScript, React, Vue, Next.js, Redux, Node.js, NestJS, HTML, CSS, Bootstrap, Tailwind CSS, MongoDB, Figma, Netlify, Ubuntu, VS Code, Postman, Photoshop, and Premiere Pro" />
+</a>
 
----
+<br />
 
-### Top Usage Languages:
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111111?style=flat-square&logo=shadcnui&logoColor=white)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharam-gfx&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
-
----
-
-### StarDev Ranking
-
-<a href="https://stardev.io/developers/dharam-gfx"><img alt="Check out dharam-gfx's profile on stardev.io" src="https://stardev.io/developers/dharam-gfx/badge/languages/locality.svg" /></a>
+</div>
 
 ---
 
+## Signals
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-stack-light.svg">
+  <img src="assets/radar-stack-dark.svg" width="440" alt="Stack breadth by technology area" />
+</picture>
+</td>
+<td width="50%" align="center" valign="middle">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-languages-light.svg">
+  <img src="assets/radar-languages-dark.svg" width="440" alt="Language mix across public GitHub repositories" />
+</picture>
+</td>
+</tr>
+</table>
+
+---
+
+## Numbers Matter? Ohh Yes.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+  <img src="assets/card-stats-dark.svg" width="520" alt="Dharam's GitHub statistics" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-languages-light.svg">
+  <img src="assets/card-languages-dark.svg" width="520" alt="Programming language mix across public repositories" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Thanks for stopping by. Keep building.</sub>
+</div>
