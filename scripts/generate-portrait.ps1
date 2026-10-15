@@ -57,10 +57,10 @@ try {
     $rows = [int][Math]::Round($columns * $frameHeight / $frameWidth)
     $cropWidth = $bitmap.Width
     $cropHeight = [Math]::Min($bitmap.Height, [int][Math]::Round($cropWidth * $frameHeight / $frameWidth))
-    $darkLow = @(230, 43, 61)
-    $darkHigh = @(255, 220, 205)
-    $lightLow = @(122, 27, 45)
-    $lightHigh = @(245, 43, 69)
+    $darkLow = @(47, 101, 139)
+    $darkHigh = @(205, 250, 255)
+    $lightLow = @(52, 82, 102)
+    $lightHigh = @(8, 126, 139)
     $targets = @{
         "JS" = @(Get-TextTargetPoints -Text "JS" -FontName "Arial" -FontSize 55 -Width $columns -Height $rows -FrameWidth $frameWidth -FrameHeight $frameHeight)
         "TS" = @(Get-TextTargetPoints -Text "TS" -FontName "Arial" -FontSize 55 -Width $columns -Height $rows -FrameWidth $frameWidth -FrameHeight $frameHeight)

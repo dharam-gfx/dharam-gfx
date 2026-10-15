@@ -9,8 +9,8 @@
     <polygon points="260,107 350,159 350,263 260,315 170,263 170,159"/>
     <path d="M260 211V107M260 211L350 159M260 211L350 263M260 211V315M260 211L170 263M260 211L170 159"/>
   </g>
-  <polygon points="260,107 300.3,187.8 288.5,194.5 260,267.9 219.7,234.3 219.7,187.8" fill="#c3263e" fill-opacity=".16" stroke="#c3263e" stroke-width="2.5" stroke-linejoin="round"/>
-  <g fill="#c3263e">
+  <polygon points="260,107 300.3,187.8 288.5,194.5 260,267.9 219.7,234.3 219.7,187.8" fill="#087e8b" fill-opacity=".16" stroke="#087e8b" stroke-width="2.5" stroke-linejoin="round"/>
+  <g fill="#087e8b">
     <circle cx="260" cy="107" r="3"/><circle cx="300.3" cy="187.8" r="3"/><circle cx="288.5" cy="194.5" r="3"/><circle cx="260" cy="267.9" r="3"/><circle cx="219.7" cy="234.3" r="3"/><circle cx="219.7" cy="187.8" r="3"/>
   </g>
   <g font-size="10" font-weight="600" fill="#1f2328">

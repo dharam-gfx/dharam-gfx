@@ -22,7 +22,7 @@ THEMES = {
         "text": "#c9d1d9",
         "muted": "#8b949e",
         "value": "#f0f6fc",
-        "accent": "#ff5d67",
+        "accent": "#22d3ee",
         "bar_bg": "#21262d",
     },
     "light": {
@@ -31,7 +31,7 @@ THEMES = {
         "text": "#1f2328",
         "muted": "#59636e",
         "value": "#0d1117",
-        "accent": "#c3263e",
+        "accent": "#087e8b",
         "bar_bg": "#eaeef2",
     },
 }

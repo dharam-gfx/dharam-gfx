@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 112" role="img" aria-label="Programming language mix will appear after the first workflow run">
   <rect x="0.5" y="0.5" width="519" height="111" rx="8" fill="#ffffff" stroke="#d0d7de"/>
-  <text x="24" y="31" fill="#c3263e" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1">LANGUAGE MIX</text>
+  <text x="24" y="31" fill="#087e8b" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1">LANGUAGE MIX</text>
   <text x="496" y="31" text-anchor="end" fill="#59636e" font-family="Segoe UI,Arial,sans-serif" font-size="11">BYTES ACROSS PUBLIC REPOS</text>
   <text x="24" y="72" fill="#1f2328" font-family="Segoe UI,Arial,sans-serif" font-size="13">Language breakdown refreshes after the first workflow run.</text>
   <path d="M24 88H496" stroke="#eaeef2" stroke-width="5" stroke-linecap="round"/>

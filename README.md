@@ -16,7 +16,7 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=dharam-gfx&style=flat&color=c3263e&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=dharam-gfx&style=flat&color=087e8b&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
